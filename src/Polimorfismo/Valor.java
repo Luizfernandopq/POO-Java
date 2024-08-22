@@ -6,28 +6,6 @@ public class Valor {
 	public String toString() {
 		return ""+v;
 	}
-/*
-	public static void main(String[] args) {
-		Integer i = new Integer(100);
-		System.out.println(i); // 100
-		Valor v = new Valor(100);
-		System.out.println(v); // 100
-	}
-}
-public class Valor {
-	int v;
-
-	public Valor(int v) {
-		this.v = v;
-	}
-
-	public boolean equals(Object o) {
-		if (o instanceof Valor) {
-			Valor val = (Valor)o;
-			return val.v==v;
-		} else return false;
-	}
-*/
 
 	public static void main(String[] args) {
 		Integer i1 = new Integer(100);
