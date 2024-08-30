@@ -4,6 +4,6 @@ import Excecoes.tests.FuncionarioExemplo;
 
 public class Main {
      public static void main(String[] args) {
-         //CadastroService.abertura();
+         CadastroService.abertura();
     }
 }
